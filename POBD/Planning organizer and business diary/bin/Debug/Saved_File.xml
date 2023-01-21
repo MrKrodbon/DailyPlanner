@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Setting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Monday_Task>System.Windows.Forms.ListBox+SelectedObjectCollectionSystem.Windows.Forms.ListBox+SelectedObjectCollectionTrueSystem.Windows.Forms.ListBox+SelectedObjectCollectionTrue</Monday_Task>
+  <Thuesday_Task />
+  <Wendesday_Task />
+  <Thursday_Task />
+  <Friday_Task />
+  <Saturday_Task />
+  <Sunday_Task />
+</Setting>

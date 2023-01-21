@@ -1,0 +1,64 @@
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe.config
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.pdb
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csprojAssemblyReference.cache
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.MainForm.resources
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.NewTask.resources
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.Properties.Resources.resources
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.StartWindow.resources
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.GenerateResource.cache
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.CoreCompileInputs.cache
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.exe
+C:\Users\Женя\Desktop\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.pdb
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe.config
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.pdb
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.AssemblyReference.cache
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.MainForm.resources
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.NewTask.resources
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.Properties.Resources.resources
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.StartWindow.resources
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.GenerateResource.cache
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.exe
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.pdb
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe.config
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.pdb
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.AssemblyReference.cache
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.MainForm.resources
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.NewTask.resources
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.Properties.Resources.resources
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.StartWindow.resources
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.GenerateResource.cache
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.exe
+C:\Users\Eugene\Desktop\MyProjects\Курсова робота Сошин Євгеній\Програма\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.pdb
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe.config
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.pdb
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.AssemblyReference.cache
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.MainForm.resources
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.NewTask.resources
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.Properties.Resources.resources
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.StartWindow.resources
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.GenerateResource.cache
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.exe
+C:\Users\Eugene\Desktop\MyProjects\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.pdb
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe.config
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.exe
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\bin\Debug\Planning organizer and business diary.pdb
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.AssemblyReference.cache
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.MainForm.resources
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.NewTask.resources
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.Properties.Resources.resources
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning_organizer_and_business_diary.StartWindow.resources
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.GenerateResource.cache
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.csproj.CoreCompileInputs.cache
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.exe
+C:\Users\Eugene\Documents\POBD\Planning organizer and business diary\obj\Debug\Planning organizer and business diary.pdb
